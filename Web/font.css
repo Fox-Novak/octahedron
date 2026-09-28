@@ -1,7 +1,11 @@
 @font-face {
     font-family: 'Octahedron';
-    src: url('/fonts/Octahedron-Regular.woff2') format('woff2');
+    src: url('https://raw.githubusercontent.com/Fox-Novak/octahedron/main/Web/Octahedron-Regular.woff2') format('woff2');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
+}
+
+.octahedron {
+    font-family: 'Octahedron', sans-serif;
 }
